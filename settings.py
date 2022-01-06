@@ -1,0 +1,6 @@
+WIDTH = 900
+HEIGHT = 600
+OFFSET = 300
+FPS = 60
+
+
